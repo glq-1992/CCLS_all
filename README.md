@@ -1,6 +1,6 @@
 # CCUL_all
 # Cost-Controllable Ultra-Large-Scale Sign Language (CCUL) Dataset
-## Tianjin University
+
 ### <u>Dataset Information:</u>
 &emsp; Lacking a large-scale dataset is the major obstacle limiting sign language recognition (SLR). To solve above problem, we propose a novel way to construct a Chinese sign language dataset, called cost-controllable ultra-large-scale sign language (CCUL). We disassemble the sentence into a template part and an entity part. We collect template videos and entity videos, respectively. Then template videos and entity videos are reassembled to produce a large number of combined videos. Meanwhile, we collect complete videos.
 
@@ -20,8 +20,4 @@
 
 **OneDrive:** https://tjueducn-my.sharepoint.com/:f:/g/personal/lqgao_tju_edu_cn/EhnANKFvKfxBi3ous6mqqvcB_7_sdhQNLeBsiVlBCc91dg?e=qpQiqL
 
-If you have any questions about the dataset, please feel free to contact us:
 
-Wei Feng, Professor, Tianjin University, wfeng@ieee.org
-
-Liqing Gao, Ph.D Candidate, Tianjin University, lqgao@tju.edu.cn
